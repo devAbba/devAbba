@@ -7,11 +7,11 @@ I am a web developer and Tech Enthusiast
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Nodejs
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing vabba405@gmail.com.
+- 💡 Fun fact:
+- 🌱 I am familiar with javascript and javascript frameworks (node.js, express, nestjs, tsED)
+- 😊 I am open to work in entry-level positions
+- 💼 Job interests: Software Engineer => Backend Engineer | AWS Solutions Architect 
+- 📫 
 
 ---
 

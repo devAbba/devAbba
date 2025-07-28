@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-victorAbbah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/victor-abbah-0646b6131](https://www.linkedin.com/in/victor-abbah-0646b6131/)](https://www.linkedin.com/in/victor-abbah-0646b6131/))](https://www.linkedin.com/in/victor-abbah-0646b6131) [![Twitter Badge](https://img.shields.io/badge/-@dev_Abbah-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/@dev_Abbah)](https://twitter.com/@dev_Abbah)
 
-I am a web developer and Tech Enthusiast
+I am a Web Developer and Tech Enthusiast
 
 **Here's a quick summary about me**:
 

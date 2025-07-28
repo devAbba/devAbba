@@ -8,9 +8,9 @@ I am a web developer and Tech Enthusiast
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact:
-- 🌱 I am familiar with javascript and javascript frameworks (node.js, express, nestjs, tsED)
-- 😊 I am open to work in entry-level positions
-- 💼 Job interests: Software Engineer => Backend Engineer | AWS Solutions Architect 
+- 🌱 I am familiar with PHP  & javascript and alos an AWS Certified Solutions Architect
+- 😊 I am open to work in entry/mid level positions
+- 💼 Job interests: Software Engineer => Backend Development, Frontend Development, AWS Cloud.
 - 📫 
 
 ---

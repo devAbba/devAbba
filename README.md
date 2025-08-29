@@ -11,7 +11,7 @@ I am a Web Developer and Tech Enthusiast
 - 🌱 I am familiar with PHP  & javascript. I am also an AWS Certified Solutions Architect
 - 😊 I am open to work in entry/mid level positions
 - 💼 Job interests: Software Engineer => Backend Development, Frontend Development, AWS Cloud.
-- 📫 
+- 📫 Contact me via email: vabba405@gmail.com
 
 ---
 
